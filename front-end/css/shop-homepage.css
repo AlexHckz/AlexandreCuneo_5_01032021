@@ -6,3 +6,21 @@
 body {
   padding-top: 56px;
 }
+nav .container {
+  position: relative
+}
+.navbar-brand img {
+  width: 100px;
+  position: absolute;
+  top: -2px;
+}
+.home-title {
+  margin: 2vh auto;
+}
+h2 {
+  margin: 5vh auto;
+  text-align: center;
+}
+#wrapper-numero-commande {
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+h2 {
+    margin: 50px 0;
+}
+.card-img-top {
+    width: 200px;
+    height: auto;
+}
+.big-wrapper {
+    display: none;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
